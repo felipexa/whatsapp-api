@@ -1,0 +1,15 @@
+https://github.com/pedroherpeto/whatsapp-api.git
+
+
+
+http://localhost:3000/api-docs/
+
+Autorizar (apikeyauth) 
+- comunidadezdg.com.br
+
+
+{
+  "chatId": "5515998566622@c.us",
+  "contentType": "string",
+  "content": "TESTE!"
+}
